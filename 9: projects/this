@@ -1,3 +1,5 @@
+[TASK]: Implement getters and inserters of data for certain positions of the csv file 
+            (Consider the file an array of structs containing id, name, grade, and age)
 [TASK]: Write a compression algorithm
 [TASK]: Implement a hashmap library
 [TASK]: Implement a dynamic array with "methods" using macros
