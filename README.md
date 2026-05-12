@@ -2,7 +2,7 @@
 
 Small C exercises and projects.
 
-The repository is split into chapters that gradually introduce:
+The repository is split into chapters with no particular order that gradually introduce:
 - syntax and control flow
 - functions and recursion
 - pointers and memory
