@@ -1,7 +1,7 @@
-# 7  fileio
+# 7 fileio
 
 ## Overview
 
-[TASK]: Read integers from a file and compute sum
-[TASK]: Write a list of numbers to a file
-[TASK]: Save/load student records to/from a file    ->   ../9: projects/this
+- [ ] Read integers from a file and compute sum
+- [ ] Write a list of numbers to a file
+- [ ] Save/load student records to/from a file -> ../9: projects/this

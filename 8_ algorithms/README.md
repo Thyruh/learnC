@@ -1,8 +1,8 @@
-# 8  algorithms
+# 8 algorithms
 
 ## Overview
 
-[TASK]: Implement linear search on an array
-[TASK]: Implement binary search on a sorted array
-[TASK]: Implement quicksort for an integer array
-[TASK]: Evaluate arithmetic expressions recursively
+- [ ] Implement linear search on an array
+- [ ] Implement binary search on a sorted array
+- [ ] Implement quicksort for an integer array
+- [ ] Evaluate arithmetic expressions recursively

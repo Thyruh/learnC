@@ -1,10 +1,10 @@
-# 9  projects
+# 9 projects
 
 ## Overview
 
-[TASK]: Implement getters and inserters of data for certain positions of the csv file 
-            (Consider the file an array of structs containing id, name, grade and age from chapter 7)
-[TASK]: Write a compression algorithm
-[TASK]: Implement a hashmap library
-[TASK]: Implement a dynamic array with "methods" using macros
-[TASK]: Implement an arena library
+- [ ] Implement getters and inserters of data for certain positions of the csv file
+(Consider the file an array of structs containing id, name, grade and age from chapter 7)
+- [ ] Write a compression algorithm
+- [ ] Implement a hashmap library
+- [ ] Implement a dynamic array with "methods" using macros
+- [ ] Implement an arena library

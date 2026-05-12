@@ -1,9 +1,9 @@
-# 10  tools
+# 10 tools
 
 ## Overview
 
-[TASK]: Write a base conversion tool that accepts arguments from argv and outputs something along
-                                                                            those lines:
+- [ ] Write a base conversion tool that accepts arguments from argv and outputs something along
+those lines:
 ```
 1:
     dec:  41
@@ -40,7 +40,7 @@
     bin:  0b1111101001
     oct:  0o1751
 ```
-`asc` stands for ascii
+> `asc` stands for ascii
 The ascii text should only appear if the integer is actually printable as a character
 The binary shall accept `n` arguments and handle them all
 
@@ -67,7 +67,7 @@ Basic error handling and recovery:
 ```
 
 One last thing - if only one argument is provided it should not print the `index:` part
-Such as: 
+Such as:
 ```
     dec:  100
     hex:  0x64
@@ -76,5 +76,4 @@ Such as:
     asc:  'd'
 ```
 
-Hint: strtoull(3)
-
+> **Hint:** strtoull(3)
