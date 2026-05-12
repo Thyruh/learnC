@@ -8,3 +8,5 @@
 - [ ] Implement a hashmap library
 - [ ] Implement a dynamic array with "methods" using macros
 - [ ] Implement an arena library
+- [ ] Mini shell (execute commands via fork/exec)
+- [ ] Implement a stack based primitive virtual machine
