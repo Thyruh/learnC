@@ -1,3 +1,7 @@
+# 5  memory
+
+## Overview
+
 [TASK]: Implement a dynamic array (vector) with malloc and realloc
 [TASK]: Implement a simple linked list: add/remove nodes
 [TASK]: Copy a string manually using pointers (no strcpy)

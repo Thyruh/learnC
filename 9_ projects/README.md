@@ -1,3 +1,7 @@
+# 9  projects
+
+## Overview
+
 [TASK]: Implement getters and inserters of data for certain positions of the csv file 
             (Consider the file an array of structs containing id, name, grade and age from chapter 7)
 [TASK]: Write a compression algorithm

@@ -1,3 +1,7 @@
+# 8  algorithms
+
+## Overview
+
 [TASK]: Implement linear search on an array
 [TASK]: Implement binary search on a sorted array
 [TASK]: Implement quicksort for an integer array
